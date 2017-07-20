@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# Copyright ©2016 SoftInTouch.
 
 from flask.views import MethodView
 from flask.ext.babel import gettext
